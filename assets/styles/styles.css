@@ -1,0 +1,15 @@
+.img {
+    border-radius: 10px;
+    margin: 2rem;
+    width: auto;
+    height: 30rem;
+    cursor: pointer;
+    align-self: center;
+}
+
+.img-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
