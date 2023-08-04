@@ -17,3 +17,23 @@
 #slider{
     overflow-x: scroll;
 }
+
+.list_show{
+    display: none;
+    width: 90%;
+    margin-left: auto;
+    border-left: 2px solid #303440;
+    transition: height .4s;
+}
+
+.nav-link:hover{
+    background: #f6f6fa;
+}
+
+.list_click{
+    cursor: pointer;
+}
+
+.list_click:hover{
+    background: #f6f6fa;
+}
